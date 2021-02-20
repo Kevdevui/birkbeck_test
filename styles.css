@@ -10,3 +10,6 @@ h1:hover{
     color:#FF3CAC;
     cursor: pointer;
 }
+p{
+    font-size: 2rem;
+}
